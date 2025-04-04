@@ -15,6 +15,49 @@ https://techy-kuldeep-astro-bay.vercel.app/2504/default_primary.mpd?%7CdrmScheme
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL T20
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENG 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HIN 
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL GUJARATI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TAMIL
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TELUGU
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MARATHI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_MAR_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BENGALI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_BEN_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL KANNADA
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_KAN_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL PUNJABI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Punj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HARYANVI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BHOJPURI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MALYALAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FANCODE 24*7
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
 
