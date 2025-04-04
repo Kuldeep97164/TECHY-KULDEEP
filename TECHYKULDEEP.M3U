@@ -51,12 +51,17 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MALYALAM
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BATTER CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HERO CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL FIELD VIEW CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL STUMP CAM
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", FANCODE 24*7
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
