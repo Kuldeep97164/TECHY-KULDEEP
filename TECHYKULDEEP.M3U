@@ -16,52 +16,52 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd?%7C
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENGLISH
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HINDI 
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL GUJARATI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MARATHI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_MAR_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_MAR_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL PUNJABI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Punj_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Punj_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HARYANVI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_HAR_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BHOJPURI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TAMIL
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_TAM_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TELUGU
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_TEL_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_TEL_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL KANNADA
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_KAN_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_KAN_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MALAYALAM
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Mal_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BENGALI
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_BEN_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_BEN_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BATTER CAM
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HERO CAM
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL FIELD VIEW CAM
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL STUMP CAM
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", PSL T20
 https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_CAM05_IDC_MOB/Fallback/index2.m3u8%7Cx-token-platform=web
