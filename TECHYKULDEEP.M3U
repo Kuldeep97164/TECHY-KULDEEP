@@ -19,10 +19,10 @@ https://techy-kuldeep-astro-nine.vercel.app/2504/default_primary.mpd?%7CdrmSchem
 https://abgqjfuaaaaaaaamosdyf2n3hqhx6.0b9106752eed4bac8f490059d12f5fdd.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cvqd1gvmsx/out/v1/1c8e3ff6faf749baad7ba81b9a738cc8/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=65e8f4035b676dfb23174a2b9d8c40ae:e59d4b971ef7a5c55701a7ce90fed283
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENGLISH
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M2_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HINDI 
-https://prod-sports-north.jiocinema.com/bpk-tv/JS_M2_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
+https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL GUJARATI
 https://prod-sports-north.jiocinema.com/bpk-tv/JS_M1_IPL25_Guj_IDC_CTV/Fallback/index2.m3u8%7Cx-token-platform=web
