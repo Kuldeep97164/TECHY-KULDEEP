@@ -19,10 +19,10 @@ https://techy-kuldeep-astro-nine.vercel.app/2504/default_primary.mpd?%7CdrmSchem
 https://a52aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/cdwyagl0gx/out/v1/f62f4974413c4992aa812c4e5075b330/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=32ce7e73994d85bcd18d15684f83e268:a0ae977921636b8fe7bbeea3275c89bd
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL 3
-https://psplay.site/mpd/fox/ps_manifest.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://psplay.site/mpd/fox/ps_manifest.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL 4
-https://psplay.site/mpd/fox2/ps_manifest.mpd?|drmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
+https://psplay.site/mpd/fox2/ps_manifest.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 
 #EXTINF:-1 tvg-logo="https://fancode.com/skillup-uploads/fc-web-logo/fc-logo-orange-block-bg.png", PSL T20 1
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
