@@ -22,10 +22,10 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENGLISH
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
+https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HINDI 
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
+https://jcevents.hotstar.com/bpk-tv/JS_M2_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL GUJARATI
 https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Guj_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747625175~acl=%2f*~id=86ff7d6548a090b455baf26a1dcc0602~data=hdntl~hmac=6d9f2f1ade390aef1edcdba1f02392eb8d957a6add7db45709a328263ff7ef49&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
