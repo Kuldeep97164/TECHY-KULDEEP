@@ -12,59 +12,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", WILLOW SPORTS
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", ASTRO CRICKET 
-https://astro-ebon-five.vercel.app/2504/default_primary.mpd?%7CdrmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw",  ASTRO CRICKET(VPN MALASIA) 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd?%7Cuser-agent=Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.101 Mobile Safari/537.36&drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", FOX SPORTS 501
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENGLISH
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_ENG_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HINDI 
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HIN_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL GUJARATI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Guj_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MARATHI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_MAR_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL PUNJABI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Punj_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HARYANVI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_HAR_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BHOJPURI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Bhoj_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TAMIL
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TAM_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL TELUGU
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_TEL_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL KANNADA
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_KAN_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL MALAYALAM
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_Mal_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BENGALI
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_BEN_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL BATTER CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_CAM01_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HERO CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_CAM02_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL FIELD VIEW CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_CAM04_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL STUMP CAM
-https://jcevents.hotstar.com/bpk-tv/JS_M1_IPL25_CAM03_IDC_CTV/Fallback/index2.m3u8?%7Ccookie=hdntl=exp=1747826260~acl=%2f*~id=9fb819c9e7814e17d6bdd847345c0e1d~data=hdntl~hmac=2a6cd6bad9f908a362f6173c619d6ac64505bba2cf14360ac585b3c3bb75f234&user-agent=Hotstar;in.startv.hotstar/25.03.19.2.11274%20(Android/10)
