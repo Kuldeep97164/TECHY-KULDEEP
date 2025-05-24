@@ -23,3 +23,12 @@ https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG W VS WI W
 https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8
+
+#EXTINF:-1 ,YSU 2
+https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM7/87238d22-a0e0-4564-8b4f-73b0271ec605/0.m3u8
+
+#EXTINF:-1 ,YSU 3
+https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM7/87238d22-a0e0-4564-8b4f-73b0271ec605/master.m3u8
+
+#EXTINF:-1 ,YSU 4
+https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM7/87238d22-a0e0-4564-8b4f-73b0271ec605/index.m3u8
