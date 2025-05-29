@@ -37,7 +37,7 @@ https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/
 https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM7/1308a4ea-44ce-482e-aaf3-06bc09b4dcf9/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG VS WI
-https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8
+https://dai.google.com/linear/hls/event/7044GU7mRL2-99W6nrnbzA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", ENG W VS WI W
 https://dai.google.com/ssai/event/hz16sZhMQXy6Xz-grMWr-A/master.m3u8
