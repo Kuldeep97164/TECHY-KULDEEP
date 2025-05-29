@@ -19,13 +19,13 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 https://live1-814bffb9b389f652-cf.foxtelgroupcdn.net.au/out/v1/c1566607e84d4dd0bc7e53bc26943d14/index.mpd?%7CdrmScheme=clearkey&drmLicense=a2ba14ee5ef4440d8e56a8bb5403117d:b77a334fd7aff9c9960ca7785a20ea66
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENG 1080P
-https://2e47f5d7638848ff8a74309f661ae9e1.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM6/2a5f1e57-9942-4759-96e8-f7748d5c7ae9/0.m3u8
+https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/c961b357-0c96-4a5e-8b04-51146ace7da0/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENG 720P
-https://2e47f5d7638848ff8a74309f661ae9e1.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM6/2a5f1e57-9942-4759-96e8-f7748d5c7ae9/1.m3u8
+https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/c961b357-0c96-4a5e-8b04-51146ace7da0/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL ENG 480P
-https://2e47f5d7638848ff8a74309f661ae9e1.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM6/2a5f1e57-9942-4759-96e8-f7748d5c7ae9/2.m3u8
+https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/c961b357-0c96-4a5e-8b04-51146ace7da0/2.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", IPL HIN 1080P
 https://a5f60e5467fc4389b2c543a65012d87e.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM7/24ba1ad2-2214-41c0-beef-a44be529e281/0.m3u8
