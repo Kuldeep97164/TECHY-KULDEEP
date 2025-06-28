@@ -15,6 +15,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/o
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/bp4jknyVZ8yDKhER9thIS1p9MBeU2LABqBX-sO8uaL1h5_keqlgMUmXv-CjfRWaqKw=w240-h480-rw", SKY SPORTS CRICKET 
 https://g006-lin-gb-cmaf-prd-xa.pcdn05.cssott02.com/nowgblin1/Content/CMAF_CTR_H1/Live/channel(skysportscricket)/master.mpd?%7CdrmScheme=clearkey&drmLicense=1116b327df439f151e6de79b922d0b51:1e9050e6819728885dd9ab5752bc1fe5
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND W VS ENG W
+https://dai.google.com/ssai/event/DX_lMgd6R42vY1wSWgXg9A/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
 
