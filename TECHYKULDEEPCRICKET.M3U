@@ -27,11 +27,6 @@ https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG HINDI
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG 1080P
-https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/6eced565-dcb9-40a8-9b94-5585ae4c2b6f/0.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG 
+https://otte.live.cf.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/akt72l8lkf/out/v1/85b92ea58c5146a6a68afb1b01081541/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=b14763875e85ace0d418265439fb6af0:3396b44a916005b3e9e00d56222123b5
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG 720P
-https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/6eced565-dcb9-40a8-9b94-5585ae4c2b6f/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/QtxELma_6y1jezI8QKqVtI8Tb0flMhPjIAzU-VSZ2jz7RwriCENXQk4M6MvUyVi5qg=w480-h960-rw", IND VS ENG 480P
-https://0f0a0065b7024f8d8110da68360ef979.mediatailor.us-east-1.amazonaws.com/v1/manifest/85b2e189604a6043ef957e7a3e6ed3bf9b11c843/USCA_DAI_STRM3/6eced565-dcb9-40a8-9b94-5585ae4c2b6f/2.m3u8
